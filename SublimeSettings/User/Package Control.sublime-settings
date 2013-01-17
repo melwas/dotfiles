@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeLint",
+		"CoffeeScript",
+		"Compass",
+		"Git",
+		"jQuery Snippets pack",
+		"Open Recent Files",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"ZenCoding"
+	]
+}
